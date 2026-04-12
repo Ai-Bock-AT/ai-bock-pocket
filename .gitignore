@@ -22,3 +22,5 @@ yarn-error.log*
 # System
 .DS_Store
 *.pem
+*.log
+.pocket-sync-cache/
